@@ -26,6 +26,10 @@
 <br>
 <a href="/txt">Filter export with txt file</a>
 <br>
+<br>
 <a href="/print">Print file uploaded to txt file</a>
+<br>
+<br>
+<a href="/split-merge">Split or Merge file</a>
 </body>
 </html>

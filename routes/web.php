@@ -18,7 +18,8 @@ Route::get('/laravel-excel', 'HomeController@laravelExcel')->name('laravelExcel'
 Route::get('/php-excel', 'HomeController@phpSpreadSheet')->name('phpSpreadSheet');
 Route::get('/txt', 'ExportTxtController@txt')->name('txt');
 Route::post('/upload', 'HomeController@upload')->name('upload');
-Route::post('/print', 'HomeController@printFileUploads')->name('print');
+Route::get('/print', 'HomeController@printFileUploads')->name('print');
+Route::get('/split-merge', 'HomeController@splitFile')->name('split-merge');
 
 Route::post('/convert', 'LaravelExcelController@convert')->name('convert');
 Route::post('/check', 'LaravelExcelController@check')->name('check');
@@ -30,6 +31,4 @@ Route::post('/count', 'PhpSpreadSheetController@count')->name('count');
 Route::post('/export-txt', 'ExportTxtController@exportTXT')->name('export-txt');
 Route::post('/count-txt', 'ExportTxtController@count-txt')->name('count-txt');
 
-
-
-
+Route::post('/split', 'FileController@split')->name('split');

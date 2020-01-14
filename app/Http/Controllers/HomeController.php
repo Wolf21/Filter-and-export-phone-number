@@ -38,6 +38,9 @@ class HomeController extends Controller
         return redirect()->back()->with(['msg' => 'Upload "' . $fileName .  '" success', 'fileName' => $fileName]);
     }
 
+    /**
+     * @return \Illuminate\Http\RedirectResponse
+     */
     public static function printFileUploads() {
         $path = resource_path('uploads/fileUploads');
         $dir = array_diff(scandir($path), array('.', '..'));
@@ -49,5 +52,12 @@ class HomeController extends Controller
             );
         }
         return redirect()->back()->with(['msg' => 'Print Success']);
+    }
+
+    /**
+     * @return \Illuminate\Contracts\View\Factory|\Illuminate\View\View
+     */
+    public static function splitFile() {
+        return view('split-merge');
     }
 }

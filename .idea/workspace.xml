@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="578d0804-6b9b-4e90-832b-bdde19645a51" name="Default Changelist" comment="" />
+    <list default="true" id="578d0804-6b9b-4e90-832b-bdde19645a51" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/uploads/txt/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/split-merge.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/uploads/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/uploads/file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/uploads/fileUploads/1900.hn (38k8).xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/uploads/fileUploads/1977 (18k).xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/uploads/fileUploads/tong hop 2 (85k).xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/uploads/fileUploads/tong hop 3 (105k5).xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/uploads/fileUploads/tong hop 4 (77k7).xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/uploads/fileUploads/tong hop 5 (40k).xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/uploads/fileUploads/tran thanh (28k).xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/uploads/fileUploads/tt(63k).xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/uploads/fileUploads/tuan hung (34k9).xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/uploads/fileUploads/u23 VN (38k1).xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/uploads/fileUploads/viec lam (37k).xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/uploads/fileUploads/viec lam(6k8).xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/uploads/fileUploads/yeah1 tv (14k4).xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/uploads/fileUploads/your da nang (20k3).xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/uploads/txt/other.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/uploads/txt/other.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/uploads/txt/vina.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/uploads/txt/vina.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/uploads/txt/vt.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/uploads/txt/vt.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/export-txt.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/export-txt.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/upload.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +55,9 @@
     </option>
     <expand />
     <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -124,6 +156,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1UuKkJ5CmaOj7WnBSXIoo5gHB8q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -132,6 +165,7 @@
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/uploads" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -186,7 +220,7 @@
       <workItem from="1578536061708" duration="10396000" />
       <workItem from="1578620274970" duration="318000" />
       <workItem from="1578622851595" duration="2606000" />
-      <workItem from="1578630289527" duration="68352000" />
+      <workItem from="1578630289527" duration="79178000" />
     </task>
     <servers />
   </component>
@@ -206,10 +240,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="554" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1600.860@0.0.1600.860" timestamp="1578901413770" />
-    <state x="530" y="186" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1578978343341">
+    <state x="530" y="186" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1578988096429">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="530" y="186" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1600.860@0.0.1600.860" timestamp="1578978343341" />
+    <state x="530" y="186" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1600.860@0.0.1600.860" timestamp="1578988096429" />
     <state x="579" y="186" key="#com.jetbrains.php.refactoring.move.member.PhpMoveMemberDialog#" timestamp="1578908789504">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -242,10 +276,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="552" y="245" key="NewPhpClassDialog/0.0.1600.860@0.0.1600.860" timestamp="1578550116401" />
-    <state x="634" y="354" key="NewPhpFileDialog" timestamp="1578971694429">
+    <state x="634" y="354" key="NewPhpFileDialog" timestamp="1578985755671">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="634" y="354" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1578971694429" />
+    <state x="634" y="354" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1578985755671" />
     <state x="301" y="73" key="SettingsEditor" timestamp="1578727477965">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -258,9 +292,9 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1578708552042" />
-    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1578978543911">
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1578990488086">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1578978543911" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1578990488086" />
   </component>
 </project>
